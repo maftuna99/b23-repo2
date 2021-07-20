@@ -11,3 +11,6 @@ Lunch menu:
 Butter chicken 1200cal
 Polov 2000 cal 15.99
 
+Burger 5.99
+Veggie 10 cal
+kebob 9.99
