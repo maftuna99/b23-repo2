@@ -17,3 +17,6 @@ kebob 9.99
 
 
 steak 600 cal 
+
+pizza 3000 cal 9.99
+soup 5 cal 3.99
