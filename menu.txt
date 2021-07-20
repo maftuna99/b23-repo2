@@ -14,3 +14,6 @@ Polov 2000 cal 15.99
 Burger 5.99
 Veggie 10 cal
 kebob 9.99
+
+
+steak 600 cal 
